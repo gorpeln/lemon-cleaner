@@ -11,8 +11,8 @@
 #import <ServiceManagement/SMLoginItem.h>
 
 #define SHOW_GET_DIR_ACCESS @"show_get_dir_access"
-#define MAS_MONITOR_APP_NAME @"88L2Q4487U.com.tencent.LemonASMonitor.app"
-#define MAS_MONITOR_BUNDLE_ID @"88L2Q4487U.com.tencent.LemonASMonitor"
+#define MAS_MONITOR_APP_NAME @"NE2F8482PW.com.tencent.LemonASMonitor.app"
+#define MAS_MONITOR_BUNDLE_ID @"NE2F8482PW.com.tencent.LemonASMonitor"
 #define MAS_IS_CONNECTION_XPC @"mas_is_connection_xpc"
 #define MAS_MONITOR_EXIT @"mas_monitor_exit"
 

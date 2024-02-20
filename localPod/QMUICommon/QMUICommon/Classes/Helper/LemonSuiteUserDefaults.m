@@ -8,7 +8,7 @@
 
 #import "LemonSuiteUserDefaults.h"
 
-#define MAIN_LEMON_GROUP_ID @"88L2Q4487U.com.tencent"
+#define MAIN_LEMON_GROUP_ID @"NE2F8482PW.com.tencent"
 
 @implementation LemonSuiteUserDefaults
 

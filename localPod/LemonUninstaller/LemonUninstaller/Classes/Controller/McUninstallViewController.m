@@ -818,7 +818,7 @@ BOOL isAppRunningBundleId(NSString *bundelId){
 - (void)uninstallSoft:(LMLocalApp *)software
 {
     BOOL lemonLiteCheck = false;
-    NSString *lemonLiteMonitorBundleId = @"88L2Q4487U.com.tencent.LemonASMonitor";
+    NSString *lemonLiteMonitorBundleId = @"NE2F8482PW.com.tencent.LemonASMonitor";
     //TOOD 兼容 TencentLemonLite 的卸载
     if(software.bundleID && [software.bundleID isEqualToString:@"com.tencent.LemonLite"]){
         lemonLiteCheck = [self checkIsAppRunningWithBundleId:lemonLiteMonitorBundleId hostApp:software];

@@ -27,7 +27,7 @@
 #import <LemonSpaceAnalyse/McSpaceAnalyseWndController.h>
 
 #define DOCK_ON_OFF_STATE         @"dock_on_off_state"
-#define MAS_MONITOR_BUNDLE_ID     @"88L2Q4487U.com.tencent.LemonASMonitor"
+#define MAS_MONITOR_BUNDLE_ID     @"NE2F8482PW.com.tencent.LemonASMonitor"
 #define MAS_SHOW_STATUS_BAR_GUIDE @"mas_show_status_bar_guide"
 #define IS_APPSTORE_NEW_USER_14   @"is_appstore_new_user_14"
 #define IS_GUIDE_THE_OLD_USER     @"is_guide_the_old_user"

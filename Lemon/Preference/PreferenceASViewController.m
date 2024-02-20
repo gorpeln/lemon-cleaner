@@ -46,7 +46,7 @@
 #import <QMUICommon/SharedPrefrenceManager.h>
 #import <QMCoreFunction/NSFont+Extension.h>
 
-#define LOGIN_ITEM_BUNDLEID @"88L2Q4487U.com.tencent.LemonASMonitor"
+#define LOGIN_ITEM_BUNDLEID @"NE2F8482PW.com.tencent.LemonASMonitor"
 #define MAS_MONITOR_EXIT @"mas_nonitor_exit"
 #define MAS_MONITOR_START_SUCCESS @"mas_nonitor_start_scuess"
 #define CAN_MAS_MONITOR_START @"can_mas_monitor_start"

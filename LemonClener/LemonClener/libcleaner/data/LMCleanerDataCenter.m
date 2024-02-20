@@ -60,7 +60,7 @@
         NSLog(@"dbSrcPath is not exist return");
         return;
     }
-    NSURL *url = [[NSFileManager defaultManager] containerURLForSecurityApplicationGroupIdentifier:@"88L2Q4487U.com.tencent"];
+    NSURL *url = [[NSFileManager defaultManager] containerURLForSecurityApplicationGroupIdentifier:@"NE2F8482PW.com.tencent"];
     NSString *groupPath = [url path];
     NSString *groupSupPath = [groupPath stringByAppendingPathComponent:@"Library/Application Support"];
     NSString *dstDbPath = [groupSupPath stringByAppendingPathComponent:@"LemonClean.db"];
